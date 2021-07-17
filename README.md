@@ -10,6 +10,3 @@
 - Sistema de Mensagem de Boas vindas e de Saída Personalizado.
 - Sistema de Economia.
 - Em breve mais comandos!
-
-# Convite
-Link para adicionar: [Clique Aqui](https://discordapp.com/api/oauth2/authorize?client_id=706095889973772388&permissions=8&scope=bot)
