@@ -9,4 +9,7 @@
 - Sistema de Logs.
 - Sistema de Mensagem de Boas vindas e de Saída Personalizado.
 - Sistema de Economia.
-- Em breve mais comandos!
+
+# Setup
+Assim que você baixar abra o Arquivo "config.json" e coloque o token do seu bot e o prefixo dele. Tem alguns comandos que estavam em manutenção então você da uma olhada e se quiser arrumar no bot.
+O banco de dados dele é local usando a biblioteca Quick.db.
