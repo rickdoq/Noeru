@@ -1,0 +1,83 @@
+[
+	{
+		"pergunta": "Clique na reação que NÃO é um formato de arquivo:\n\n1️⃣ - .mp3\n2️⃣ - .mp4\n3️⃣ - .mp5",
+		"resposta": ["3️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Para que serve o desgin gráfico?\n\n1️⃣ - Se envolve com questões ligadas à estética, à arte\n2️⃣ - Criar e desenvolver projetos gráficos\n3️⃣ - Engloba a gravura, o desenho, a pintura e escultura",
+		"resposta": ["2️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Qual o salário médio de um designer gráfico?\n\n1️⃣ - R$ 2.156,00\n2️⃣ - R$ 1.900,00\n3️⃣ - R$ 1.676,00",
+		"resposta": ["1️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Design gráfico e computação gráfica são a mesma coisa?\n\n1️⃣ - Sim\n2️⃣ - Não",
+		"resposta": ["3️⃣"],
+        "quantopcoes": 2
+	},
+	{
+		"pergunta": "Quando surgiu o design gráfico?\n\n1️⃣ - Século XVI\n2️⃣ - Século XX\n3️⃣ - Século XIX",
+		"resposta": ["3️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Quem criou o design gráfico?\n\n1️⃣ - William Addison Dwiggins\n2️⃣ - Leonardo da Vinci\n3️⃣ - Salvador Dalí",
+		"resposta": ["1️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Qual foi o fator que levou ao desenvolvimento do design gráfico?\n\n1️⃣ - Segunda Guerra Mundial\n2️⃣ - Segunda Revolução Industrial\n3️⃣ - Revolução Industrial",
+		"resposta": ["3️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Onde surgiu o desgin gráfico?\n\n1️⃣ - Estados Unidos\n2️⃣ - Europa\n3️⃣ - México",
+		"resposta": ["2️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Quais dessas opções não é um tipo de design gráfico?\n\n1️⃣ - Production Design\n2️⃣ - Web Design\n3️⃣ - Design Think",
+		"resposta": ["1️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Qual foi a primeira empresa de design gráfico?\n\n1️⃣ - Design Club\n2️⃣ - Alpha Arts\n3️⃣ - Forminform",
+		"resposta": ["3️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Qual o programa mais famoso usado para design gráfico?\n\n1️⃣ - Adobe Illustrator\n2️⃣ - Adobe Photoshop\n3️⃣ - Adobe After Effects",
+		"resposta": ["2️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Qual o tipo de arquivo mais usado por profissionais de imagens?\n\n1️⃣ - JPEG\n2️⃣ - TIFF\n3️⃣ - PNG",
+		"resposta": ["2️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Qual a ferramenta mais usada para ilustração de imagens?\n\n1️⃣ - Pincel\n2️⃣ - Giz de cera\n3️⃣ - Caneta",
+		"resposta": ["1️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Quanto tempo leva APROXIMADAMENTE para concluir uma arte?\n\n1️⃣ - De 1 a 2 horas\n2️⃣ - Mais de 1 dia\n3️⃣ - De 3 a 5 horas",
+		"resposta": ["3️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Quais são as cores quentes?\n\n1️⃣ - Azul, verde e violeta\n2️⃣ - Preto, branco e marrom\n3️⃣ - Amarelo, laranja e vermelho",
+		"resposta": ["3️⃣"],
+        "quantopcoes": 3
+	},
+	{
+		"pergunta": "Quais são as cores frias?\n\n1️⃣ - Cinza, branco e azul\n2️⃣ - Azul, verde e violeta\n3️⃣ - Vermelho, branco e azul",
+		"resposta": ["2️⃣"],
+        "quantopcoes": 3
+	}
+	
+]
